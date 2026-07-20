@@ -21,6 +21,7 @@ print(list1)
 #pop
 list1.pop()
 print(list1)
+print("Hello world")
 
 
 
